@@ -1,0 +1,6 @@
+services:
+  web:
+    image: vizartmd/my-react-app
+    ports:
+      - '3000:3000'
+    
